@@ -12,4 +12,4 @@ Yonsei PDF Downloader 배포 전용 저장소입니다.
 
 ## Latest Download
 
-[Download Yonsei PDF Downloader.dmg](https://github.com/brainok/Yonsei-pdf-downloader-release/releases/latest/download/Yonsei%20PDF%20Downloader.dmg)
+[Download Yonsei PDF Downloader.dmg](https://github.com/brainok/Yonsei-pdf-downloader-release/releases/latest/download/Yonsei.PDF.Downloader.dmg)
