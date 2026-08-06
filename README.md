@@ -4,6 +4,13 @@ Yonsei PDF Downloader 배포 전용 저장소입니다.
 
 이 저장소에는 앱 소스 코드를 올리지 않고, 설치용 DMG만 GitHub Releases로 배포합니다.
 
+## v2.06
+
+- Brainok Store Firebase license activation 지원
+- 기존 오프라인 Activation Code 호환 유지
+- 한 번 활성화하면 이후 오프라인에서도 Keychain 저장 activation으로 사용 가능
+- Activation UI에 붙여넣기, Device ID 복사, 인증 진행 상태 표시 추가
+
 ## v2.02
 
 - 오프라인 Activation Code: `BRAINOK-STORE-2026`
